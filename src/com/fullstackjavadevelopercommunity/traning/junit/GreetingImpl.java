@@ -10,6 +10,7 @@ public class GreetingImpl implements Greeting {
 	/* (non-Javadoc)
 	 * @see com.fullstackjavadevelopercommunity.traning.junit.Greeting#greet(java.lang.String)
 	 */
+
 	@Override
 	public String greet(String name) {
 		

@@ -14,7 +14,6 @@ import org.junit.Test;
  */
 public class GreetingImplTest {
 
-	
 	private GreetingImpl greetingImpl;
 
 	@Before

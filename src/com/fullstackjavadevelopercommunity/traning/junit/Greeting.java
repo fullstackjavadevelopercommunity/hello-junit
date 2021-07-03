@@ -5,6 +5,7 @@ package com.fullstackjavadevelopercommunity.traning.junit;
  *
  * Jul 3, 2020
  */
+
 public interface Greeting {
 
 	String greet(String name);
